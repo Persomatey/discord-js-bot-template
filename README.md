@@ -1,5 +1,4 @@
 # discord-js-bot-template
-
 Made this mostly for my own purposes, but anybody is welcome to use it. 
 It was originally copied from the [simple-discord-js-bot](https://github.com/bredmor/simple-discord-js-bot) by [bredmor](https://github.com/bredmor), but I found that the original code was a little outdated and I wanted to add some debugging and other functionality on top of that, so I spun this off into a new repo. 
 
